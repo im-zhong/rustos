@@ -1,2 +1,2 @@
 # rustos
-write a simple os in rust
+write a simple os with rust
